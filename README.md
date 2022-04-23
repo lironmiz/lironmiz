@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/1000x1000/20/20/programming-banner-concept-vector-20832020.webp)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1)
 <h1 align="center">Hi 👋, I'm liron mizrahi</h1>
 <h3 align="center">A passionate developer from Israel Who loves to build things.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
