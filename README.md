@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **liri25112003@gmail.com**
 
-- ⚡ Fun fact **l think l funny**
+- ⚡ Fun fact **l solve rubix cube**
 
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/liron_mizrhai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19955573/liron-mizrhai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lyrwnmzrhy1)
  <img src="https://gpvc.arturio.dev/lironmiz" alt="profile views">  
  <a href="https://dev.to/lironmiz"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-  <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?
+ <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -48,3 +48,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironmiz&" alt="lironmiz" /></p>
 
 <p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
