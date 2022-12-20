@@ -48,10 +48,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironmiz&" alt="lironmiz" /></p>
 
 <p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
+ 
+![GitHub metrics](https://metrics.lecoq.io/lironmiz)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+
 
