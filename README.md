@@ -47,6 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironmiz&" alt="lironmiz" /></p>
 
 <p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
+
+<p><img src="https://www.codewars.com/users/lironmiz/badges/large" alt="Codewars Stats Card"></p>
  
 ![GitHub metrics](https://metrics.lecoq.io/lironmiz)
 
