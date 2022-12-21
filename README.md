@@ -38,13 +38,18 @@
 
 <h2 align="left">💪 Things I want to learn sometime in the future:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lironmiz&show_icons=true&locale=en&layout=compact" alt="lironmiz" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lironmiz&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lironmiz&show_icons=true&locale=en" alt="lironmiz" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lironmiz&theme=radical)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lironmiz&theme=radical&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lironmiz&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironmiz&" alt="lironmiz" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lironmiz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
 
