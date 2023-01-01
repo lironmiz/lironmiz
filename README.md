@@ -1,7 +1,11 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1)
+
 <h1 align="center">💫   Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm liron mizrahi   💫</h1>
+
 <h3 align="center">🌟 A passionate developer from Israel Who loves to build things 🌟</h3>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 - <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="35"/>&nbsp;&nbsp;&nbsp;  I’m currently working on **computer science**
@@ -39,6 +43,7 @@
 <h2 align="left">💪 Things I want to learn sometime in the future:</h2>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lironmiz&show_icons=true&theme=transparent)
 
