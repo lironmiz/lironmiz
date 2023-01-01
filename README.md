@@ -64,6 +64,8 @@
 <p><img src="https://www.codewars.com/users/lironmiz/badges/large" alt="Codewars Stats Card"></p>
  
 ![GitHub metrics](https://metrics.lecoq.io/lironmiz)
+## Snake eating my contribution 🐍
+![snake gif](https://github.com/lironmiz/lironmiz/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
