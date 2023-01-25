@@ -1,9 +1,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/91504420/210681197-c2506cb2-cb09-4908-b4f2-e32313f49ac3.gif' width='1280'>
 
-<h1 align="center">💫   Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm liron mizrahi   💫</h1>
+<h1 align="center">💫 Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Liron Mizrahi   💫</h1>
 
-<h3 align="center">🌟 A passionate developer from Israel Who loves to build things 🌟</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> A passionate developer from Israel Who loves to build things! <img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> </h3>
+
+### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="30px" width="30px" /> **_About Me_**
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -46,11 +48,9 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> <img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50" width="60" > <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" height="50"></a>
 
 
- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lironmiz&show_icons=true&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lironmiz&theme=radical)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lironmiz&theme=radical&utcOffset=8)
 
@@ -65,11 +65,11 @@
 <p><img src="https://www.codewars.com/users/lironmiz/badges/large" alt="Codewars Stats Card"></p>
  
 ![GitHub metrics](https://metrics.lecoq.io/lironmiz)
-## Snake eating my contribution 🐍
+<h1 align="center"> 🐍 Snake Eating My Contribution 🐍 </h1>
 
 <img src="https://raw.githubusercontent.com/lironmiz/lironmiz/output/github-contribution-grid-snake.svg" alt="snake" height="80%" width="100%"/>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
