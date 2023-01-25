@@ -66,7 +66,8 @@
  
 ![GitHub metrics](https://metrics.lecoq.io/lironmiz)
 ## Snake eating my contribution 🐍
-![snake gif](https://github.com/lironmiz/lironmiz/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://raw.githubusercontent.com/lironmiz/lironmiz/output/github-contribution-grid-snake.svg" alt="snake" height="80%" width="100%"/>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
