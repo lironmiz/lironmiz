@@ -47,6 +47,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="50"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> <img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50" width="60" > <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" height="50"></a>
 
+<h2 align="left">💥 My Github Stats:</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lironmiz&show_icons=true&theme=transparent)
 
@@ -59,6 +60,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironmiz&" alt="lironmiz" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lironmiz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">🔱 coding problems:</h2>
 
 <p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
 
