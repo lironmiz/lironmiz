@@ -11,9 +11,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-- <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="35"/>&nbsp;&nbsp;&nbsp;  I’m currently working on **computer science**
+- <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="35"/>&nbsp;&nbsp;&nbsp;  I’m currently a fighter in the Israeli Navy
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **java, javascript, qt**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning ** Web development **
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Just another developer in the world
 
